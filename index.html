@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <h1><a href="index.html" style="text-decoration: none; color: inherit;">tjbl</a></h1>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 1rem; }
+    nav a { display: block; margin: 0.5rem 0; }
+    #content { margin-top: 2rem; }
+    pre {
+      overflow-x: auto;
+      background: #f4f4f4;
+      padding: 1em;
+      border-radius: 4px;
+      max-width: 100%;
+    }
+    code {
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <nav id="post-list">
+    <a href="?post=flax_nnx_load_250507.md">Loading Safetensors in NNX: A 700x Speedup</a>
+  </nav>
+  <div id="content"></div>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const post = params.get("post");
+    if (post) {
+      document.getElementById('post-list').style.display = 'none';
+      fetch(`posts/${post}`)
+        .then(res => res.text())
+        .then(md => {
+          document.getElementById('content').innerHTML = marked.parse(md);
+        })
+        .catch(() => {
+          document.getElementById('content').innerHTML = "Post not found.";
+        });
+    }
+  </script>
+</body>
+</html>
