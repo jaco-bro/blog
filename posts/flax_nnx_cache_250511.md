@@ -134,4 +134,4 @@ _, result = nnx.scan(scan_step, in_axes=(nnx.Carry,), out_axes=(nnx.Carry, 1), l
 
 ### Closing Notes
 
-Hopefully this saves someone a few of the steps I had to stumble through. You can find the full implementation here: [github.com/jaco-bro/nnx-lm](https://github.com/jaco-bro/nnx-lm)
+Hopefully this saves someone a few of the steps I had to stumble through. You can find the full implementation here: [github.com/jaco-bro/nnx-lm](https://pypi.org/project/nnx-lm)
