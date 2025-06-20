@@ -74,6 +74,8 @@ But there's [a better way](https://web.archive.org/web/20250507063510/https://fl
 
 <details><summary>Click to expand code</summary><pre>
 tic = time.perf_counter()
+# graphdef, state = nnx.split(model_cls(config, rngs=nnx.Rngs(0)))
+graphdef, state = nnx.split(nnx.eval_shape(lambda: model_cls(config, rngs=nnx.Rngs(0))))
 <span style="color:red;"># graphdef, state = nnx.split(model_cls(config, rngs=nnx.Rngs(0)))</span> 
 <span style="color:green;">graphdef, state = nnx.split(nnx.eval_shape(lambda: model_cls(config, rngs=nnx.Rngs(0))))</span>
 state = dict(state.flat_state())
