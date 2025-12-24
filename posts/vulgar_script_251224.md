@@ -6,9 +6,9 @@ Usually, the open-source "hacker" community and the corporate "suits" of Big Tec
 
 But on the topic of AI, they have found common ground. Both are aggressively arguing that powerful models should not be in the hands of the general public.
 
-The hackers hate AI because it produces "slop", i.e., low-quality code and art that degrades the craft. The corporations hate it because it is "unsafe", that it allows for misuse and misinformation.
+The hackers hate AI because it produces "slop", flooding the web with low-quality code and art that degrades the craft. The corporations and researchers argue for censorship and closed access, insisting that the technology is too unsafe for public distribution.
 
-Despite the different slogans, their goal is identical: **Exclusion**. They both believe that the machinery of intelligence is too dangerous, or too pure, to be entrusted to the commoner.
+Despite the different slogans, their goal is identical: exclusion. They both believe that the machinery of intelligence is too dangerous, or too pure, to be entrusted to the commoner.
 
 This is a recurring historical pattern. Whenever a technology appears that democratizes a capability, the incumbent elites try to lock the door. And if you look at history, the societies that succeed in locking that door don't end up safe. They end up destroying themselves.
 
