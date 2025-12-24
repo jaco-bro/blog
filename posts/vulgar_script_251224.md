@@ -26,9 +26,9 @@ When "vulgar scripts" appeared to challenge this, like the printing press in Eur
 
 Here, the world split into two paths.
 
-In the West, the gatekeepers lost. The Reformation forced the "vulgar" languages into the mainstream. The result was immediate chaos: religious wars, heresy, and noise. But the long-term result was the Enlightenment, the Scientific Revolution, and the modern world. The "noise" was the sound of civilization scaling up.
+In the West, the gatekeepers lost. The Reformation forced the vulgar languages into the mainstream. The result was immediate chaos: religious wars, heresy, and noise. But the long-term result was the Enlightenment, the Scientific Revolution, and the modern world. The "noise" was the sound of civilization scaling up.
 
-In the East, the gatekeepers won. The aristocracy successfully marginalized the "vulgar scripts." They kept the high culture pure and locked away in the complex characters.
+In the East, the gatekeepers won. The aristocracy successfully marginalized the vulgar scripts. They kept the high culture pure and locked away in the complex characters.
 
 They thought this made them safe. They thought that by keeping the masses uneducated, they were maintaining order.
 
