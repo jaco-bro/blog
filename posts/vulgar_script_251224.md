@@ -22,7 +22,7 @@ The Chinese system was particularly effective at exclusion. As a logographic sys
 
 This inefficiency was the point. It acted as a filter. It ensured that only the aristocracy, who had the leisure time for decades of study, could become literate. It created a society where a tiny sliver of elites held a monopoly on reality, while the vast majority were kept in the dark.
 
-When "vulgar scripts" appeared to challenge this, like the printing press in Europe or phonetic scripts like Hangul in Asia, the reaction was always hostile. The elites argued that simplifying the script would degrade the culture.
+When "vulgar" languages appeared to challenge this, like the vernacular Bibles in Europe or phonetic scripts like Hangul in Asia, the reaction was always hostile. The elites argued that simplifying the script would degrade the culture.
 
 Here, the world split into two paths.
 
